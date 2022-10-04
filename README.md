@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/coderhop-libraries/spring-rebound/actions/workflows/maven.yml/badge.svg)](https://github.com/coderhop-libraries/spring-rebound/actions/workflows/maven.yml)
 # spring-rebound
 Library for providing exception handling for spring based REST APIs
 
