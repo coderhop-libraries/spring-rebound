@@ -1,10 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.coderhop</groupId>
 	<artifactId>spring-rebound</artifactId>
-	 <version>0.0.5-SNAPSHOT</version> 
+	 <version>0.0.5</version> 
 	<!-- <version>1.0.7</version> -->
 	<build>
 		<plugins>
@@ -134,7 +132,8 @@
 		<connection>scm:git:git://github.com/coderhop-libraries/spring-rebound.git</connection>
 		<developerConnection>scm:git:ssh://github.com/coderhop-libraries/spring-rebound.git</developerConnection>
 		<url>http://github.com/coderhop-libraries/spring-rebound</url>
-	</scm>
+	  <tag>spring-rebound-0.0.5</tag>
+  </scm>
 
 	<developers>
 		<developer>
