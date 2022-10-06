@@ -3,7 +3,7 @@
 	<groupId>com.coderhop</groupId>
 	<artifactId>spring-rebound</artifactId>
 	<!--  <version>0.0.5</version>  -->
-	<version>1.0.7</version>
+	<version>1.0.8</version>
 	<build>
 		<plugins>
 			<plugin>
